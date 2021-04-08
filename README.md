@@ -1,4 +1,5 @@
 # ialegor.github.io
 
-[Расчёт ипотеки](/mortgage)
-[Расчёт ипотеки (beta)](/mortgage-dev)
+[Расчёт кредита](/mortgage)
+
+[Расчёт кредита (beta)](/mortgage-dev)
